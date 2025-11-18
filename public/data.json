@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "firstName": "Leanne",
+        "lastName": "Graham",
+        "phoneNumber": "1-770-736-8031"
+    },
+    {
+        "id": 2,
+        "firstName": "Ervin",
+        "lastName": "Howell",
+        "phoneNumber": "010-692-6593"
+    },
+    {
+        "id": 3,
+        "firstName": "Clementine",
+        "lastName": "Bauch",
+        "phoneNumber": "1-463-123-4447"
+    },
+    {
+        "id": 4,
+        "firstName": "Patricia",
+        "lastName": "Lebsack",
+        "phoneNumber": "493-170-9623"
+    },
+    {
+        "id": 5,
+        "firstName": "Chelsey",
+        "lastName": "Dietrich",
+        "phoneNumber": "254-954-1289"
+    }
+]
